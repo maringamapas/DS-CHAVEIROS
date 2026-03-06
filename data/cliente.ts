@@ -78,6 +78,6 @@ export const dadosCliente = {
     description:
       "Serviços de chaveiro profissional 24 horas. Atendimento rápido em Guarulhos e região. Residencial, comercial e automotivo.",
     url: "https://ds-chaveiros.vercel.app",
-    ogImage: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0g-image-chaveiro-yX4xASV82kiLKElZcedbaXleabz4jX.jpg",
+    ogImage: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0g-image-chaveiro2-0MziMLLF7GwEE5BgrtbuNTyXg1nWdt.jpg",
   },
 }
