@@ -4,53 +4,53 @@
 export const dadosCliente = {
   // Cores do tema
   cores: {
-    primaryColor: "#f59e0b", // Âmbar
-    secondaryColor: "#1f2937", // Cinza escuro
-    accentColor: "#ea580c", // Laranja
+    primaryColor: "#d4af37", // Dourado
+    secondaryColor: "#1a1a1a", // Preto
+    accentColor: "#c9a227", // Dourado escuro
   },
 
   // Informações de contato
   contato: {
-    whatsappNumber: "5544999324635",
-    whatsappLink: "https://wa.me/5544999324635?text=Olá, Preciso de um orçamento!!",
+    whatsappNumber: "5511980718259",
+    whatsappLink: "https://wa.me/5511980718259?text=Olá, Preciso de um orçamento!!",
     instagram: "https://instagram.com", // Adicione o link real se houver
     email: "",
-    endereco: "Maringá - PR",
-    telefone: "(44) 99932-4635",
+    endereco: "São Paulo - SP",
+    telefone: "(11) 98071-8259",
   },
 
   // Conteúdo principal
   conteudo: {
-    tituloPrincipal: "Silver Key Chaveiro 24h",
-    subtitulo: "Chaveiro rápido quando você mais precisa.\nEstamos prontos para ajudar.",
+    tituloPrincipal: "DS CHAVEIROS 24 HORAS",
+    subtitulo: "Serviços de chaveiro profissionais quando você mais precisa.\nEstamos prontos para ajudar 24/7.",
     sobreNos:
-      "Somos uma empresa especializada em serviços de Chaveiro, socorro automotivo e residêncial com mais de 15 anos de experiência na região. Nossa equipe é treinada e certificada para oferecer o melhor atendimento 24/7.",
+      "Somos uma empresa especializada em serviços de chaveiro profissional com atendimento 24 horas. Oferecemos soluções rápidas e confiáveis para todos os tipos de fechaduras e serviços relacionados. Nossa equipe é experiente e utiliza equipamentos de última geração para garantir segurança e qualidade.",
   },
 
   // Serviços oferecidos
   servicos: [
     {
       id: 1,
-      titulo: "Ampla Cobertura",
-      descricao: "Maringá, Sarandi e região",
-      icone: "🗺️",
+      titulo: "Atendimento 24/7",
+      descricao: "Disponível todos os dias, sem intervalo",
+      icone: "🔑",
     },
     {
       id: 2,
-      titulo: "Disponível 24/7",
-      descricao: "Atendimento ininterrupto, todos os dias",
-      icone: "⏰",
+      titulo: "Cobertura Ampla",
+      descricao: "Atuação em toda São Paulo e região",
+      icone: "🗺️",
     },
     {
       id: 3,
-      titulo: "Profissionais",
-      descricao: "Equipe treinada e muito experiente",
+      titulo: "Profissionais Experientes",
+      descricao: "Equipe treinada e certificada",
       icone: "👨‍🔧",
     },
     {
       id: 4,
-      titulo: "Preços Justos",
-      descricao: "Transparência total sem taxas ocultas",
+      titulo: "Preços Transparentes",
+      descricao: "Sem taxas ocultas, orçamento honesto",
       icone: "💰",
       destaque: true,
     },
@@ -60,24 +60,24 @@ export const dadosCliente = {
   recursos: [
     {
       titulo: "Resposta Rápida",
-      descricao: "Atendimento em menos de 15 minutos",
+      descricao: "Atendimento em menos de 20 minutos",
     },
     {
-      titulo: "Rastreamento em Tempo Real",
-      descricao: "Acompanhe pelo app ou WhatsApp",
+      titulo: "Serviços Variados",
+      descricao: "Residencial, comercial e automotivo",
     },
     {
-      titulo: "Profissionais Experientes",
-      descricao: "Equipe treinada e certificada",
+      titulo: "Confiança Garantida",
+      descricao: "Profissionais qualificados e seguros",
     },
   ],
 
   // Metadados SEO
   seo: {
-    siteTitle: "Silver Key Chaveiro 24h | (44) 99932-4635",
+    siteTitle: "DS CHAVEIROS 24 HORAS | (11) 98071-8259",
     description:
-      "Chaveirorápido quando você mais precisa. Cobertura: Maringá, Sarandi e região",
-    url: "https://vitrine-guincho.vercel.app",
+      "Serviços de chaveiro profissional 24 horas. Atendimento rápido em São Paulo e região. Residencial, comercial e automotivo.",
+    url: "https://ds-chaveiros.vercel.app",
     ogImage: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/og-images-sJuuuAvIHqa8z89YgojuEIUX24PxJ0.jpg",
   },
 }
