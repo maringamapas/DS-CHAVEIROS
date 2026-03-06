@@ -15,7 +15,7 @@ export const dadosCliente = {
     whatsappLink: "https://wa.me/5511980718259?text=Olá, Preciso de um orçamento!!",
     instagram: "https://instagram.com", // Adicione o link real se houver
     email: "",
-    endereco: "São Paulo - SP",
+    endereco: "Guarulhos - SP",
     telefone: "(11) 98071-8259",
   },
 
