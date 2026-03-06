@@ -78,6 +78,6 @@ export const dadosCliente = {
     description:
       "Serviços de chaveiro profissional 24 horas. Atendimento rápido em São Paulo e região. Residencial, comercial e automotivo.",
     url: "https://ds-chaveiros.vercel.app",
-    ogImage: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/og-images-sJuuuAvIHqa8z89YgojuEIUX24PxJ0.jpg",
+    ogImage: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0g-image-chaveiro-yX4xASV82kiLKElZcedbaXleabz4jX.jpg",
   },
 }
