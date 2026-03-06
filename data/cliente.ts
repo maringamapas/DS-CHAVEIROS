@@ -38,7 +38,7 @@ export const dadosCliente = {
     {
       id: 2,
       titulo: "Cobertura Ampla",
-      descricao: "Atuação em toda São Paulo e região",
+      descricao: "Atuação em toda Guarulhos e região",
       icone: "🗺️",
     },
     {
@@ -76,7 +76,7 @@ export const dadosCliente = {
   seo: {
     siteTitle: "DS CHAVEIROS 24 HORAS | (11) 98071-8259",
     description:
-      "Serviços de chaveiro profissional 24 horas. Atendimento rápido em São Paulo e região. Residencial, comercial e automotivo.",
+      "Serviços de chaveiro profissional 24 horas. Atendimento rápido em Guarulhos e região. Residencial, comercial e automotivo.",
     url: "https://ds-chaveiros.vercel.app",
     ogImage: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0g-image-chaveiro-yX4xASV82kiLKElZcedbaXleabz4jX.jpg",
   },
