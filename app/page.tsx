@@ -199,7 +199,7 @@ const Page = () => {
                   ))}
                 </div>
                 <p className="text-sm sm:text-base text-zinc-300 leading-relaxed">
-                  &quot;Perdi a chave no trabalho e a Silver Key veio abrir minha porta e menos de 15 minutos. Atendimento 24h é realmente eficiente!&quot;
+                  &quot;Perdi a chave no trabalho e a DS CHAVEIROS veio abrir minha porta em menos de 15 minutos. Atendimento 24h é realmente eficiente!&quot;
                 </p>
               </div>
             </div>
