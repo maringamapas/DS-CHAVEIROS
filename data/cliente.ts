@@ -21,7 +21,7 @@ export const dadosCliente = {
 
   // Conteúdo principal
   conteudo: {
-    tituloPrincipal: "DS CHAVEIROS 24 HORAS",
+    tituloPrincipal: "Chaveiros em Guarulhos 24 Horas",
     subtitulo: "Serviços de chaveiro profissionais quando você mais precisa.\nEstamos prontos para ajudar 24/7.",
     sobreNos:
       "Somos uma empresa especializada em serviços de chaveiro profissional com atendimento 24 horas. Oferecemos soluções rápidas e confiáveis para todos os tipos de fechaduras e serviços relacionados. Nossa equipe é experiente e utiliza equipamentos de última geração para garantir segurança e qualidade.",
@@ -74,7 +74,7 @@ export const dadosCliente = {
 
   // Metadados SEO
   seo: {
-    siteTitle: "DS CHAVEIROS 24 HORAS | (11) 98071-8259",
+    siteTitle: "Chaveiros em Guarulhos 24 Horas | (11) 98071-8259",
     description:
       "Serviços de chaveiro profissional 24 horas. Atendimento rápido em Guarulhos e região. Residencial, comercial e automotivo.",
     url: "https://ds-chaveiros.vercel.app",

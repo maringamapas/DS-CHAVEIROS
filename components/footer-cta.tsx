@@ -65,6 +65,9 @@ export default function FooterCTA() {
         transition={{ delay: 0.4, duration: 0.6 }}
         className="text-center mt-4"
       >
+        <p className="text-amber-400 text-sm md:text-base mb-2">
+          📌 Atendimento no local apenas com agendamento
+        </p>
         <p className="text-gray-400 text-sm md:text-base flex items-center justify-center gap-2">
           <svg className="h-5 w-5 text-amber-500" fill="currentColor" viewBox="0 0 24 24">
             <path d="M12 2C6.48 2 2 6.48 2 12c0 4.84 3.94 8.75 8.75 8.75 1.395 0 2.745-.348 3.910-.965l7.08 7.08c.585.585 1.535.585 2.12 0l.707-.707c.586-.585.586-1.535 0-2.12l-7.08-7.08c.617-1.165.965-2.515.965-3.91C20.75 5.94 16.84 2 12 2zm0 15.5c-1.93 0-3.5-1.57-3.5-3.5s1.57-3.5 3.5-3.5 3.5 1.57 3.5 3.5-1.57 3.5-3.5 3.5z" />
