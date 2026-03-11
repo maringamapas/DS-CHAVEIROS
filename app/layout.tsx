@@ -13,6 +13,10 @@ export const metadata: Metadata = {
   title: dadosCliente.seo.siteTitle,
   description: dadosCliente.seo.description,
   generator: "v0.app",
+  // Nova tag de verificação inserida corretamente via Metadata API
+  verification: {
+    google: "lRIU7ArnQWtFNofbaEQEbbM4pRWc-U3bt8NZXhapJHQ",
+  },
   openGraph: {
     title: dadosCliente.seo.siteTitle,
     description: dadosCliente.seo.description,
@@ -46,31 +50,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
-      <head>
-        {/* Meta Description (SEO) */}
-        <meta name="description" content={dadosCliente.seo.description} />
-
-        <meta name="google-site-verification" content="OQ18zxm5jwjtUma02of36qhsH3hzOuIvHqnZSk-kd_A" />
-
-        {/* Open Graph / Facebook / LinkedIn */}
-        <meta property="og:title" content={dadosCliente.seo.siteTitle} />
-        <meta property="og:description" content={dadosCliente.seo.description} />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content={dadosCliente.seo.url} />
-        <meta property="og:image" content={dadosCliente.seo.ogImage} />
-        <meta property="og:locale" content="pt_BR" />
-
-        {/* Twitter Card */}
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={dadosCliente.seo.siteTitle} />
-        <meta name="twitter:description" content={dadosCliente.seo.description} />
-        <meta name="twitter:image" content={dadosCliente.seo.ogImage} />
-
-        {/* WhatsApp / Telegram */}
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="630" />
-        <meta property="og:image:type" content="image/jpeg" />
-      </head>
+      {/* Removi as tags manuais do <head> pois o Next.js já as gera via metadata acima */}
       <body className={`font-sans antialiased`}>
         <ClienteProvider>
           {children}
